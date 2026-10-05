@@ -1,2 +1,3 @@
 # Brain-simulation
 Starting from atomic structure, referencing and constructing a system to simulate human brain science through binary, without injecting information or prompt words, allowing Brain to autonomously attempt to send signal units and simulate feedback through preset programs, I am still uncertain whether this project should be open sourced. I have repeatedly considered permanently deleting this project, and currently, I am still taking it one step at a time. If it involves dangerous content, I will make a choice
+以原子结构为起点，参照并通过二进制构建起模拟人类脑科学的系统，不通过注入信息或提示词，让Brain自主尝试发送信号单位并由预设程序模拟反馈，我仍然不确定该项目是否应该被开源，我有多次想永久删除这个项目，目前仍然是走一部分看一步，如果涉及危险内容我会进行抉择
