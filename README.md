@@ -1,2 +1,2 @@
 # Brain-simulation
-Refer to the human brain's operating mechanism to build an AI that can understand the world without prompt words and can operate independently
+Starting from atomic structure, referencing and constructing a system to simulate human brain science through binary, without injecting information or prompt words, allowing Brain to autonomously attempt to send signal units and simulate feedback through preset programs, I am still uncertain whether this project should be open sourced. I have repeatedly considered permanently deleting this project, and currently, I am still taking it one step at a time. If it involves dangerous content, I will make a choice
