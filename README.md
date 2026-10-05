@@ -1,4 +1,5 @@
 #Project Overview项目概述
+
 1：Complex cognitive structures may emerge from a sufficiently expressive system of simple local physical/computational rules, without explicitly encoding those structures in advance.
 
 2：If consciousness is an emergent property of physical causal dynamics rather than a property exclusive to biological matter, then a sufficiently faithful artificial implementation of those dynamics may potentially exhibit consciousness-like phenomena.
@@ -8,6 +9,7 @@
 2：如果意识是物理因果动力学的涌现性质,而不是生物物质所独有的，性质,那么足够实现这些动力学的人工系统,在理论上可能会产生类似意识的现象
 
 #Project intention 项目意向
+
 1：The goal of this project is not to create consciousness.
 The goal is to investigate whether 
 
